@@ -1,4 +1,5 @@
-### Hi there 🖐
+Programming and Tech Enthusiast, still learning and always learning.
+
 ## Let's me introduce myself,
 
 - 👦 I'm Nur Muhammad Ainul Yaqin, you can call me Nur or MatchaNM.
@@ -8,10 +9,11 @@
 
 
 ### Social Media:
-[<img align="left" alt="SevenScripts | Facebook" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/facebook.svg" />][facebook]
-[<img align="left" alt="SevenScripts | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="SevenScripts | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="SevenScripts | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="masnurrm | Facebook" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/facebook.svg" />][facebook]
+[<img align="left" alt="masnurrm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="masnurrm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="masnurrm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="masnurrm | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 
 <br/> <br/>
 
@@ -29,5 +31,7 @@
 [twitter]: https://twitter.com/masnurrm
 [instagram]: https://www.instagram.com/masnurrm/
 [linkedin]: https://www.linkedin.com/in/nur-muhammad-151b40112/
+[behance]: https://www.behance.net/nurmuhammad_
+
 
 
