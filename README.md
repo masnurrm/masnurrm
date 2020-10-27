@@ -1,4 +1,4 @@
-Programming and Tech Enthusiast, still learning and always learning.
+Programming and tech enthusiast, still learning and always learning.
 
 ## Let's me introduce myself,
 
