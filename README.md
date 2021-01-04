@@ -2,7 +2,7 @@ Programming and tech enthusiast, still learning and always learning.
 
 ## Let's me introduce myself,
 
-- 👦 I'm Nur Muhammad Ainul Yaqin, you can call me Nur or MatchaNM.
+- 👦 I'm Nur Muhammad Ainul Yaqin.
 - 📅 I was born on April 22, 2001 in Madiun.
 - 🏦 I am a student of the Sepuluh Nopember Institute of Technology, Surabaya.
 - 💻 I am an Informatics Engineering student (S-1).
