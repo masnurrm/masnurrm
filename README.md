@@ -41,12 +41,9 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
   <img align="left" alt="Nur Muhammad's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
-
-<br />
 <br />
 
-
-  <img align="right" alt="GIF" src="https://thumbs.gfycat.com/GentleAccomplishedCopperbutterfly.webp" />
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/GentleAccomplishedCopperbutterfly.webp" />
 
 ### Talking about Personal Stuffs:
 
@@ -68,11 +65,8 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 <code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" ></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-<br />
-<br />
-<br />
 <details>
-<summary> <b> My Github Statistic!</b> <i>(click to expand!)</i> </summary>
+<summary> <b> ### My Github Statistic!</b> <i>(click to expand!)</i> </summary>
   <br />
   
  [![Nur Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=masnurrm)](https://github.com/masnurrm/)
