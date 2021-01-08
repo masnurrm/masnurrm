@@ -5,40 +5,40 @@
 Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech enthusiast. I'm still learning and always learning.
 
 <a href="https://www.linkedin.com/in/nurmuhammad22/">
-  <img align="left" alt="Nur Muhammad's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Nur Muhammad's LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/masnurrm/">
+  <img align="left" alt="Nur Muhammad's Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
+</a>
+<a href="https://www.facebook.com/mastahnurmuhammad2001">
+  <img align="left" alt="Nur Muhammad's Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook.png" />
+</a>
+<a href="https://twitter.com/masnurrm">
+  <img align="left" alt="Nur Muhammad's Twitter" width="22px" src="https://img.icons8.com/color/100/000000/twitter-squared.png" />
+</a>
+<a href="https://dribbble.com/MastahNM">
+  <img align="left" alt="Nur Muhammad's Dribbble" width="22px" src="https://img.icons8.com/officexs/48/000000/dribbble.png" />
+</a>
+<a href="https://behance.net/nurmuhammad_">
+  <img align="left" alt="Nur Muhammad's Behance" width="22px" src="https://img.icons8.com/color/48/000000/behance.png" />
+</a>
+<a href="https://medium.com/@masnurrm">
+  <img align="left" alt="Nur Muhammad's Medium" width="22px" src="https://img.icons8.com/color/48/000000/medium-monogram.png" />
+</a>
+<a href="https://www.quora.com/profile/Nur-Muhammad-Ainul-Yaqin">
+  <img align="left" alt="Nur Muhammad's Quora" width="22px" src="https://cdn2.iconfinder.com/data/icons/Quora-Icons/256/Q-2.png" />
 </a>
 <a href="https://steamcommunity.com/id/MastahNM">
   <img align="left" alt="Nur Muhammad's Steam" width="22px" src="https://img.icons8.com/color/100/000000/steam.png" />
 </a>
-<a href="https://www.instagram.com/masnurrm/">
-  <img align="left" alt="Nur Muhammad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/mastahnurmuhammad2001">
-  <img align="left" alt="Nur Muhammad's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://dribbble.com/MastahNM">
-  <img align="left" alt="Nur Muhammad's Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
-</a>
-<a href="https://behance.net/nurmuhammad_">
-  <img align="left" alt="Nur Muhammad's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
-</a>
-<a href="https://medium.com/@masnurrm">
-  <img align="left" alt="Nur Muhammad's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://twitter.com/masnurrm">
-  <img align="left" alt="Nur Muhammad's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCFiUo2L_0zv0CMfR5N0v1dw/videos">
-  <img align="left" alt="Nur Muhammad's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://www.quora.com/profile/Nur-Muhammad-Ainul-Yaqin">
-  <img align="left" alt="Nur Muhammad's Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
-</a>
 <a href="https://codepen.io/MastahNM">
-  <img align="left" alt="Nur Muhammad's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+  <img align="left" alt="Nur Muhammad's Codepen" width="22px" src="https://img.icons8.com/color/48/000000/codepen.png" />
 </a>
 <a href="https://stackoverflow.com/users/14965745/nur-muhammad-ainul-yaqin">
-  <img align="left" alt="Nur Muhammad's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="Nur Muhammad's StackOverflow" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />
+</a>
+<a href="https://www.youtube.com/channel/UCFiUo2L_0zv0CMfR5N0v1dw/videos">
+  <img align="left" alt="Nur Muhammad's Youtube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />
 </a>
 
 <br />
