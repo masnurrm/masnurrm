@@ -2,6 +2,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/masnurrm)
 
+Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech enthusiast. I'm still learning and always learning.
+
 <a href="https://www.linkedin.com/in/nurmuhammad22/">
   <img align="left" alt="Nur Muhammad's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -43,11 +45,10 @@
 <br />
 <br />
 
-Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech enthusiast. I'm still learning and always learning.
 
   <img align="right" alt="GIF" src="https://thumbs.gfycat.com/GentleAccomplishedCopperbutterfly.webp" />
 
-**Talking about Personal Stuffs:**
+##Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently designing UI/UX;
 - 💼 I’m in college;
@@ -55,8 +56,8 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 - 📫 Please email via sangmastahnm@gmail.com to reach me.
 - 📝 See my [LinkedIn](https://www.linkedin.com/in/nurmuhammad22/) to get more info.
 
-
-**Languages and Tools:**  
+<br />
+##Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -67,7 +68,7 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-
+<br />
 <details>
 <summary> <b> My Github Statistic!</b> <i>(click to expand!)</i> </summary>
   <br />
@@ -76,5 +77,5 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
  
 </details>
 
-
-**Thank you!**
+<br />
+##Thank you!👋
