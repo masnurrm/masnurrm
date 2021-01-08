@@ -47,10 +47,10 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 
 ### Talking about Personal Stuffs:
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/GentleAccomplishedCopperbutterfly.webp" />
-- 👨🏽‍💻 I’m currently designing UI/UX.
-- 💼 I’m in college.
-- 💬 Ask me about anything, I am happy to help.
-- 📫 Please email via sangmastahnm@gmail.com to reach me.
+- 👨🏽‍💻 I’m currently designing UI/UX.<br/>
+- 💼 I’m in college.<br/>
+- 💬 Ask me about anything, I am happy to help.<br/>
+- 📫 Please email via sangmastahnm@gmail.com to reach me.<br/>
 - 📝 See my [LinkedIn](https://www.linkedin.com/in/nurmuhammad22/) to get more info.
 
 
