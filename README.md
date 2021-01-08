@@ -46,7 +46,7 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 
 
 ### Talking about Personal Stuffs:
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/d6555a61075235cfbf830de965891ab0f5b4b46fe1c4b79830247fe54f2db66b/68747470733a2f2f7468756d62732e6766796361742e636f6d2f47656e746c654163636f6d706c6973686564436f70706572627574746572666c792e77656270" data-canonical-src="https://thumbs.gfycat.com/GentleAccomplishedCopperbutterfly.webp" style="max-width:70%;">
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/d6555a61075235cfbf830de965891ab0f5b4b46fe1c4b79830247fe54f2db66b/68747470733a2f2f7468756d62732e6766796361742e636f6d2f47656e746c654163636f6d706c6973686564436f70706572627574746572666c792e77656270" data-canonical-src="https://thumbs.gfycat.com/GentleAccomplishedCopperbutterfly.webp" style="max-width:50%;">
 - 👨🏽‍💻 I’m currently designing UI/UX.<br/>
 - 💼 I’m in college.<br/>
 - 💬 Ask me about anything, I am happy to help.<br/>
