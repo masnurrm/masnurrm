@@ -45,7 +45,7 @@
 
 Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech enthusiast. I'm still learning and always learning.
 
-  <img align="right" alt="GIF" src="https://2.bp.blogspot.com/-AU4dJ99ahuI/WcSTNTslcJI/AAAAAAAACIg/jqQTpHui66g8L_Il3eMUXfJywMJ7bowEgCLcBGAs/s400/tired.gif" />
+  <img align="right" alt="GIF" src="https://thumbs.gfycat.com/GentleAccomplishedCopperbutterfly.webp" />
 
 **Talking about Personal Stuffs:**
 
