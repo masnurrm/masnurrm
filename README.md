@@ -50,15 +50,15 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently designing UI/UX;
-- 💼 I’m in college;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m currently designing UI/UX.
+- 💼 I’m in college.
+- 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via sangmastahnm@gmail.com to reach me.
 - 📝 See my [LinkedIn](https://www.linkedin.com/in/nurmuhammad22/) to get more info.
 
-<br />
+
 ### Languages and Tools:
-<br />
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -79,5 +79,5 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
  
 </details>
 
-<br />
+
 ### Thank you!👋
