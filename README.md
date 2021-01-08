@@ -1,37 +1,80 @@
-Programming and tech enthusiast, still learning and always learning.
+### Hey 👋, I'm Nur Muhammad!
 
-## Let's me introduce myself,
+![Profile views](https://gpvc.arturio.dev/masnurrm)
 
-- 👦 I'm Nur Muhammad Ainul Yaqin.
-- 📅 I was born on April 22, 2001 in Madiun.
-- 🏦 I am a student of the Sepuluh Nopember Institute of Technology, Surabaya.
-- 💻 I am an Informatics Engineering student (S-1).
+<a href="https://www.linkedin.com/in/nurmuhammad22/">
+  <img align="left" alt="Nur Muhammad's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://steamcommunity.com/id/MastahNM">
+  <img align="left" alt="Nur Muhammad's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
+</a>
+<a href="https://www.instagram.com/masnurrm/">
+  <img align="left" alt="Nur Muhammad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/mastahnurmuhammad2001">
+  <img align="left" alt="Nur Muhammad's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://dribbble.com/MastahNM">
+  <img align="left" alt="Nur Muhammad's Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
+</a>
+<a href="https://behance.net/nurmuhammad_">
+  <img align="left" alt="Nur Muhammad's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+</a>
+<a href="https://medium.com/@masnurrm">
+  <img align="left" alt="Nur Muhammad's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://twitter.com/masnurrm">
+  <img align="left" alt="Nur Muhammad's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCFiUo2L_0zv0CMfR5N0v1dw/videos">
+  <img align="left" alt="Nur Muhammad's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://www.quora.com/profile/Nur-Muhammad-Ainul-Yaqin">
+  <img align="left" alt="Nur Muhammad's Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
+</a>
+<a href="https://codepen.io/MastahNM">
+  <img align="left" alt="Nur Muhammad's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+</a>
+<a href="https://stackoverflow.com/users/14965745/nur-muhammad-ainul-yaqin">
+  <img align="left" alt="Nur Muhammad's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
 
 
-### Social Media:
-[<img align="left" alt="masnurrm | Facebook" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/facebook.svg" />][facebook]
-[<img align="left" alt="masnurrm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="masnurrm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="masnurrm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="masnurrm | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+<br />
+<br />
 
-<br/> <br/>
+Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech enthusiast. I'm still learning and always learning.
 
-### Tools and Languages:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" />
-<img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+  <img align="right" alt="GIF" src="https://2.bp.blogspot.com/-AU4dJ99ahuI/WcSTNTslcJI/AAAAAAAACIg/jqQTpHui66g8L_Il3eMUXfJywMJ7bowEgCLcBGAs/s400/tired.gif" />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently designing UI/UX;
+- 💼 I’m in college;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via sangmastahnm@gmail.com to reach me.
+- 📝 See my [LinkedIn](https://www.linkedin.com/in/nurmuhammad22/) to get more info.
 
 
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" ></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
+<code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" ></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-[facebook]: https://www.facebook.com/mastahnurmuhammad2001/
-[twitter]: https://twitter.com/masnurrm
-[instagram]: https://www.instagram.com/masnurrm/
-[linkedin]: https://www.linkedin.com/in/nur-muhammad-151b40112/
-[behance]: https://www.behance.net/nurmuhammad_
 
 
+<details>
+<summary> <b> My Github Statistic!</b> <i>(click to expand!)</i> </summary>
+  <br />
+  
+ [![Nur Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=masnurrm)](https://github.com/masnurrm/)
+ 
+</details>
 
+
+**Thank you!**
