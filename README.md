@@ -48,7 +48,7 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 
   <img align="right" alt="GIF" src="https://thumbs.gfycat.com/GentleAccomplishedCopperbutterfly.webp" />
 
-###Talking about Personal Stuffs:
+### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently designing UI/UX;
 - 💼 I’m in college;
@@ -57,7 +57,7 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 - 📝 See my [LinkedIn](https://www.linkedin.com/in/nurmuhammad22/) to get more info.
 
 <br />
-###Languages and Tools:
+### Languages and Tools:
 <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -70,6 +70,7 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 
 <br />
 <br />
+<br />
 <details>
 <summary> <b> My Github Statistic!</b> <i>(click to expand!)</i> </summary>
   <br />
@@ -79,4 +80,4 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 </details>
 
 <br />
-###Thank you!👋
+### Thank you!👋
