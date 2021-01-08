@@ -51,7 +51,7 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 - 💼 I’m in college.<br/>
 - 💬 Ask me about anything, I am happy to help.<br/>
 - 📫 Please email via sangmastahnm@gmail.com to reach me.<br/>
-- 📝 See my [LinkedIn] to get more info.
+- 📝 See my [LinkedIn](https://www.linkedin.com/in/nur-muhammad-151b40112/) to get more info.
 
 
 ### Languages and Tools:
@@ -77,5 +77,3 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 
 ### Thank You!👋
 
-
-[linkedin]: https://www.linkedin.com/in/nur-muhammad-151b40112/
