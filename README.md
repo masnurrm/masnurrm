@@ -52,6 +52,7 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 - 💬 Ask me about anything, I am happy to help.<br/>
 - 📫 Please email via sangmastahnm@gmail.com to reach me.<br/>
 - 📝 See my [LinkedIn](https://www.linkedin.com/in/nur-muhammad-151b40112/) to get more info.
+- 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
 
 
 ### Languages and Tools:
