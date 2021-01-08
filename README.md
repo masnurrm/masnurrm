@@ -8,7 +8,7 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
   <img align="left" alt="Nur Muhammad's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://steamcommunity.com/id/MastahNM">
-  <img align="left" alt="Nur Muhammad's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
+  <img align="left" alt="Nur Muhammad's Steam" width="22px" src="https://img.icons8.com/color/100/000000/steam.png" />
 </a>
 <a href="https://www.instagram.com/masnurrm/">
   <img align="left" alt="Nur Muhammad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
