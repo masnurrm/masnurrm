@@ -18,6 +18,9 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 
 <details open>
  <summary> <b>Find me on</b>: <i>(click to expand!)</i></summary>
+ 
+<br>
+<p align = "center">
 
 <a href="https://www.linkedin.com/in/nurmuhammad22/">
   <img align="left" alt="Nur Muhammad's LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
@@ -55,6 +58,7 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 <a href="https://www.youtube.com/channel/UCFiUo2L_0zv0CMfR5N0v1dw/videos">
   <img align="left" alt="Nur Muhammad's Youtube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />
 </a>
+</p>
 
 </details>
 
@@ -73,10 +77,11 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 
 <details open>
  <summary> <b>My Github Stats</b>: <i>(click to expand!)</i></summary>
-
+<br>
+<p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=masnurrm&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=masnurrm&hide=css,java,html&theme=tokyonight">
-
+</p>
 
 </details>
 
