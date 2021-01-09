@@ -1,4 +1,3 @@
-<a href="https://www.linkedin.com/in/nurmuhammad22/" target="_blank" rel="nofollow"><img align="right" alt="Nur Muhammad's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a><a href="https://twitter.com/masnurrm" target="_blank" rel="nofollow"><img align="right" alt="Nur Muhammad's Twitter" width="22px" src="https://img.icons8.com/color/100/000000/twitter-squared.png" /></a><a href="https://www.instagram.com/masnurrm/" target="_blank" rel="nofollow"><img align="right" alt="Nur Muhammad's Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" /></a><a href="https://www.facebook.com/mastahnurmuhammad2001" target="_blank" rel="nofollow"><img align="right" alt="Nur Muhammad's Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook.png" /></a> 
 
 ## Hi, I am Nur Muhammad! 
 
@@ -30,10 +29,8 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 
 <details open>
  <summary> <b>Find me on</b>: <i>(click to expand!)</i></summary>
- 
 <br>
 <p align = "center">
-
 <a href="https://www.linkedin.com/in/nurmuhammad22/">
   <img align="left" alt="Nur Muhammad's LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
@@ -71,6 +68,7 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
   <img align="left" alt="Nur Muhammad's Youtube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />
 </a>
 </p>
+</br>
 
 </details>
 
