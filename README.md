@@ -1,17 +1,18 @@
- ![Profile views](https://gpvc.arturio.dev/masnurrm)<a href="https://twitter.com/masnurrm" target="_blank" rel="nofollow"><img align="right" alt="Nur Muhammad's Twitter" width="22px" src="https://img.icons8.com/color/100/000000/twitter-squared.png" /></a><a href="https://www.linkedin.com/in/nurmuhammad22/" target="_blank" rel="nofollow"><img align="right" alt="Nur Muhammad's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a><a href="https://www.instagram.com/masnurrm/" target="_blank" rel="nofollow"><img align="right" alt="Nur Muhammad's Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" /></a><a href="https://www.facebook.com/mastahnurmuhammad2001" target="_blank" rel="nofollow"><img align="right" alt="Nur Muhammad's Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook.png" /></a>
+<a href="https://www.linkedin.com/in/nurmuhammad22/" target="_blank" rel="nofollow"><img align="right" alt="Nur Muhammad's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a><a href="https://twitter.com/masnurrm" target="_blank" rel="nofollow"><img align="right" alt="Nur Muhammad's Twitter" width="22px" src="https://img.icons8.com/color/100/000000/twitter-squared.png" /></a><a href="https://www.instagram.com/masnurrm/" target="_blank" rel="nofollow"><img align="right" alt="Nur Muhammad's Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" /></a><a href="https://www.facebook.com/mastahnurmuhammad2001" target="_blank" rel="nofollow"><img align="right" alt="Nur Muhammad's Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook.png" /></a> 
 
 ## Hi 👋 I am Nur Muhammad! 
 
 
 Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech enthusiast. I'm still learning and always learning.
 
-## Talking about Personal Stuffs
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/d6555a61075235cfbf830de965891ab0f5b4b46fe1c4b79830247fe54f2db66b/68747470733a2f2f7468756d62732e6766796361742e636f6d2f47656e746c654163636f6d706c6973686564436f70706572627574746572666c792e77656270" data-canonical-src="https://thumbs.gfycat.com/GentleAccomplishedCopperbutterfly.webp" style="max-width:50%;">
+## Talking about Personal Stuffs
 - 👨🏽‍💻 I’m currently designing UI/UX.
 - 💼 I’m in college.
 - 💬 Ask me about anything, I am happy to help. 
 - 📫 Please contact me via sangmastahnm@gmail.com to reach me.
 - 📝 See my [LinkedIn](https://www.linkedin.com/in/nurmuhammad22/) for more info.
+
 
 
 ## Languages and Tools
