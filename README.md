@@ -80,7 +80,7 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=masnurrm&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=masnurrm&langs_count=3&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=masnurrm&langs_count=3&theme=tokyonight">
 </p>
 
 </details>
