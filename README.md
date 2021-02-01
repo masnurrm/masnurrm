@@ -10,7 +10,7 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 - 👨🏽‍💻 I’m currently designing UI/UX.
 - 💼 I’m in college.
 - 💬 Ask me about anything, I am happy to help. 
-- 📫 Please contact me via sangmastahnm@gmail.com to reach me.
+- 📫 Contact me via sangmastahnm@gmail.com to reach me.
 - 📝 See my [LinkedIn](https://www.linkedin.com/in/nurmuhammad22/) for more info.
 
 ## Languages and Tools
