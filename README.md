@@ -49,20 +49,8 @@ Hi there, I'm **Nur Muhammad 'Ainul Yaqin**, a programming, design, and tech ent
 <a href="https://behance.net/nurmuhammad_">
   <img align="left" alt="Nur Muhammad's Behance" width="22px" src="https://img.icons8.com/color/48/000000/behance.png" />
 </a>
-<a href="https://medium.com/@masnurrm">
-  <img align="left" alt="Nur Muhammad's Medium" width="22px" src="https://img.icons8.com/color/48/000000/medium-monogram.png" />
-</a>
-<a href="https://www.quora.com/profile/Nur-Muhammad-Ainul-Yaqin">
-  <img align="left" alt="Nur Muhammad's Quora" width="22px" src="https://cdn2.iconfinder.com/data/icons/Quora-Icons/256/Q-2.png" />
-</a>
-<a href="https://steamcommunity.com/id/MastahNM">
-  <img align="left" alt="Nur Muhammad's Steam" width="22px" src="https://img.icons8.com/color/100/000000/steam.png" />
-</a>
 <a href="https://codepen.io/MastahNM">
   <img align="left" alt="Nur Muhammad's Codepen" width="22px" src="https://img.icons8.com/color/48/000000/codepen.png" />
-</a>
-<a href="https://stackoverflow.com/users/14965745/nur-muhammad-ainul-yaqin">
-  <img align="left" alt="Nur Muhammad's StackOverflow" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCFiUo2L_0zv0CMfR5N0v1dw/videos">
   <img align="left" alt="Nur Muhammad's Youtube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />
