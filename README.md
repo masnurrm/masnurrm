@@ -2,11 +2,11 @@
     <img src="https://raw.githubusercontent.com/masnurrm/masnurrm/master/wave.gif" width="30px"> Hello There, I'm <a href="https://masnurrm.dev">Nur Muhammad.</a>
 </h1>
 
-<div class="container">
-<div class="column-2">
+<div class="container" style="width: 100%; ">
+<div class="column" style="width: 50%; float: right; @media (max-width: 600px) {width: 100%; float: none;}">
 <img align="right" src="https://thumbs.gfycat.com/GentleAccomplishedCopperbutterfly.webp" height="160px">
 </div>
-<div class="column">
+<div class="column-2" style="width: 50%; float: left; @media (max-width: 600px) {width: 100%; float: none;}">
 <p align="left">A learner and love to learn new things. Currently having high passionate about <b>DevSecOps</b>, <b>Mobile Development (Flutter)</b>, and <b>User Experience Design</b>. Also, having some experience in <b>Technopreneurship</b> stuffs.</p>
 </div>
 </div>
@@ -42,10 +42,7 @@
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=masnurrm&show_icons=true&theme=tokyonight&line_height=27">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=masnurrm&langs_count=3&theme=tokyonight">
-    <img
-      src="https://github.com/masnurrm/masnurrm/blob/main/images/stat.svg"
-      alt="masnurrm's wakatime"
-    />
+<!--     <img src="https://github.com/masnurrm/masnurrm/blob/main/images/stat.svg" alt="masnurrm's wakatime"/> -->
 </p>
 
 </br>
@@ -54,26 +51,3 @@
 
 
 </details>
-
-<style>
-.container {
-    width: 100%;
-}
-
-.column {
-    width: 50%;
-    float: left;
-}
-
-.column-2 {
-    width: 50%;
-    float: right;
-}
-
-@media screen and (max-width: 600px) {
-    .column, .column-2 {
-        width: 100%;
-        float: none;
-    }
-}
-</style>
