@@ -4,7 +4,7 @@
 
 <div class="container">
 <div class="column-2">
-<img src="https://thumbs.gfycat.com/GentleAccomplishedCopperbutterfly.webp" height="160px">
+<img align="right" src="https://thumbs.gfycat.com/GentleAccomplishedCopperbutterfly.webp" height="160px">
 </div>
 <div class="column">
 <p align="left">A learner and love to learn new things. Currently having high passionate about <b>DevSecOps</b>, <b>Mobile Development (Flutter)</b>, and <b>User Experience Design</b>. Also, having some experience in <b>Technopreneurship</b> stuffs.</p>
