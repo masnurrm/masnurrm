@@ -2,7 +2,7 @@ name: WakaTime status update
 
 on:
   schedule:
-    - cron: "1 0 * * *"
+    - cron: "1 11 * * *"
 
 jobs:
   update-readme:
