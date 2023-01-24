@@ -1,23 +1,28 @@
-
-<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
-
 <h1 align="left">
     <img src="https://raw.githubusercontent.com/masnurrm/masnurrm/master/wave.gif" width="30px"> Hello There, I'm <a href="https://masnurrm.dev">Nur Muhammad.</a>
 </h1>
 
-<h4 align="left">A learner and love to learn new things. Currently having high passionate about <b>DevSecOps</b>, <b>Mobile Development (Flutter)</b>, and <b>User Experience Design</b>. Also, having some experience in <b>Technopreneurship</b> stuffs.</h4>
+<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
 
-</br>
+<p align="left">A learner and love to learn new things. Currently having high passionate about <b>DevSecOps</b>, <b>Mobile Development (Flutter)</b>, and <b>User Experience Design</b>. Also, having some experience in <b>Technopreneurship</b> stuffs.</p>
 
-<a target="_blank" href="https://img.shields.io/badge/-nur%20muhammad-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/nurmuhammad22/" alt="Linkedin Badge"></a>
+
+<a target="_blank" href="https://linkedin.com/in/nurmuhammad22">
+    <img src="https://img.shields.io/badge/-nur%20muhammad-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/nurmuhammad22/" alt="Linkedin Badge">     
+</a>
 
 <a target="_blank" href="https://twitter.com/masnurrm">
-<img src="https://img.shields.io/badge/masnurrm-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/masnurrm" alt="Twitter Badge"></a>
+    <img src="https://img.shields.io/badge/masnurrm-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/masnurrm" alt="Twitter Badge">
+</a>
 
 <a target="_blank" href="https://instagram.com/masnurrm/">
-<img src="https://img.shields.io/badge/-masnurrm-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/masnurrm/" alt="Instagram Badge"></a>
+    <img src="https://img.shields.io/badge/-masnurrm-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/masnurrm/" alt="Instagram Badge"></a>
 
-[![masnurrm's wakatime](https://wakatime.com/badge/user/b70526ec-e794-4d52-83e7-a9d198a8be0f.svg)](https://wakatime.com/@b70526ec-e794-4d52-83e7-a9d198a8be0f)
+<a target="_blank" href="https://wakatime.com/@b70526ec-e794-4d52-83e7-a9d198a8be0f">
+    <img style="height: 28px" src="https://wakatime.com/badge/user/b70526ec-e794-4d52-83e7-a9d198a8be0f.svg" alt="Wakatime Badge">
+</a>
+
+</br>
 
 </br>
 
