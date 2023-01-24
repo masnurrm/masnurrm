@@ -36,6 +36,10 @@
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=masnurrm&show_icons=true&theme=tokyonight&line_height=27">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=masnurrm&langs_count=3&theme=tokyonight">
+    <img
+      src="https://github.com/masnurrm/masnurrm/blob/main/images/stat.svg"
+      alt="masnurrm's wakatime"
+    />
 </p>
 
 </br>
