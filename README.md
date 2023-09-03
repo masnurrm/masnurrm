@@ -4,7 +4,7 @@
 
 <div class="container" style="width: 100%; ">
 <div class="column" style="width: 50%; float: right; @media (max-width: 600px) {width: 100%; float: none;}">
-<img align="right" src="https://thumbs.gfycat.com/GentleAccomplishedCopperbutterfly.webp" height="160px">
+<img align="right" src="https://media.tenor.com/y-0GqRONHuAAAAAC/jkt48-jkt48tv.gif" height="160px" width="280px">
 </div>
 <div class="column-2" style="width: 50%; float: left; @media (max-width: 600px) {width: 100%; float: none;}">
 <p align="left">A learner and love to learn new things. Currently having high passionate about <b>DevSecOps</b>, <b>Mobile Development (Flutter)</b>, and <b>User Experience Design</b>. Also, having some experience in <b>Technopreneurship</b> stuffs.</p>
@@ -49,5 +49,6 @@
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="20"> I'm mostly active around the internet, so if you want to discuss or meet, feel free to schedule it on <a target="_blank" href="https://calendar.google.com/calendar/u/0?cid=c2FuZ21hc3RhaG5tQGdtYWlsLmNvbQ"><strong>my Google Calendar</strong></a>, I'll be happy to exchange our views on anything!</b>
 
+<img align="center" src="https://media.tenor.com/OvzpEjkCRjQAAAAd/oniel-jkt48.gif">
 
 </details>
