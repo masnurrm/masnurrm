@@ -39,9 +39,10 @@
 
 </br>
 
-<p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=masnurrm&show_icons=true&theme=tokyonight&line_height=27">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=masnurrm&langs_count=3&theme=tokyonight">
+<p align = "left">
+    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=masnurrm&show_icons=true&theme=tokyonight&line_height=27">
+<!--     <img src = "https://github-readme-stats.vercel.app/api?username=masnurrm&show_icons=true&theme=tokyonight&line_height=27"> -->
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=masnurrm&langs_count=6&theme=tokyonight&layout=compact&hide=CSS,HTML,CMake,Scss,Less&line_height=27">
 <!--     <img src="https://github.com/masnurrm/masnurrm/blob/main/images/stat.svg" alt="masnurrm's wakatime"/> -->
 </p>
 
