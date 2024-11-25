@@ -6,10 +6,10 @@
 <!-- <div class="column" style="width: 50%; float: right; @media (max-width: 600px) {width: 100%; float: none;}">
 <img align="right" src="https://media.tenor.com/y-0GqRONHuAAAAAC/jkt48-jkt48tv.gif" height="160px" width="280px">
 </div> -->
-<div class="column-2" style="width: 50%; float: left; @media (max-width: 600px) {width: 100%; float: none;}">
+<!-- <div class="column-2" style="width: 50%; float: left; @media (max-width: 600px) {width: 100%; float: none;}">
 <p align="left">A learner and love to learn new things. Currently having high passionate about <b>DevSecOps</b>, <b>Mobile Development (Flutter)</b>, and <b>User Experience Design</b>. Also, having some experience in <b>Technopreneurship</b> stuffs.</p>
 </div>
-</div>
+</div> -->
 
 <a target="_blank" href="https://linkedin.com/in/nurmuhammad22">
     <img src="https://img.shields.io/badge/-nur%20muhammad-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/nurmuhammad22/" alt="Linkedin Badge">     
