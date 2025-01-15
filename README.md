@@ -2,14 +2,9 @@
     <img src="https://raw.githubusercontent.com/masnurrm/masnurrm/master/wave.gif" width="30px"> Hello There, I'm <a href="https://masnurrm.dev">Nur Muhammad.</a>
 </h1>
 
+<p>I'm currently serving as Cloud and DevSecOps Engineer @ PT Astra Graphia Information Technology | Informatics'2020 Institut Teknologi Sepuluh Nopember (ITS)</p>
+
 <div class="container" style="width: 100%; ">
-<!-- <div class="column" style="width: 50%; float: right; @media (max-width: 600px) {width: 100%; float: none;}">
-<img align="right" src="https://media.tenor.com/y-0GqRONHuAAAAAC/jkt48-jkt48tv.gif" height="160px" width="280px">
-</div> -->
-<!-- <div class="column-2" style="width: 50%; float: left; @media (max-width: 600px) {width: 100%; float: none;}">
-<p align="left">A learner and love to learn new things. Currently having high passionate about <b>DevSecOps</b>, <b>Mobile Development (Flutter)</b>, and <b>User Experience Design</b>. Also, having some experience in <b>Technopreneurship</b> stuffs.</p>
-</div>
-</div> -->
 
 <a target="_blank" href="https://linkedin.com/in/nurmuhammad22">
     <img src="https://img.shields.io/badge/-nur%20muhammad-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/nurmuhammad22/" alt="Linkedin Badge">     
@@ -30,26 +25,3 @@
 
 </br>
 
-</br>
-
-<details>
-    <summary>
-        <strong>More About Me!</strong>
-    </summary>
-
-</br>
-
-<p align = "left">
-    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=masnurrm&show_icons=true&theme=tokyonight&line_height=27">
-<!--     <img src = "https://github-readme-stats.vercel.app/api?username=masnurrm&show_icons=true&theme=tokyonight&line_height=27"> -->
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=masnurrm&langs_count=6&theme=tokyonight&layout=compact&hide=CSS,HTML,CMake,Scss,Less&line_height=27">
-<!--     <img src="https://github.com/masnurrm/masnurrm/blob/main/images/stat.svg" alt="masnurrm's wakatime"/> -->
-</p>
-
-</br>
-
-<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="20"> I'm mostly active around the internet, so if you want to discuss or meet, feel free to schedule it on <a target="_blank" href="https://calendar.google.com/calendar/u/0?cid=c2FuZ21hc3RhaG5tQGdtYWlsLmNvbQ"><strong>my Google Calendar</strong></a>, I'll be happy to exchange our views on anything!</b>
-
-<img align="center" src="https://media.tenor.com/OvzpEjkCRjQAAAAd/oniel-jkt48.gif">
-
-</details>
