@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/masnurrm/masnurrm/master/wave.gif" width="30px"> Hello There, I'm <a href="https://masnurrm.dev">Nur Muhammad.</a>
 </h1>
 
-<p>I'm currently serving as Cloud and DevSecOps Engineer @ PT Astra Graphia Information Technology | Informatics'20 Institut Teknologi Sepuluh Nopember (ITS)</p>
+<p>I'm currently serving as Cloud and DevSecOps Engineer @ PT Astra Graphia Information Technology | Informatics'20 Institut Teknologi Sepuluh Nopember (ITS).</p>
 
 <div class="container" style="width: 100%; ">
 
