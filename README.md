@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://raw.githubusercontent.com/masnurrm/masnurrm/master/wave.gif" width="30px"> Hello There, I'm <a href="https://masnurrm.dev">Nur Muhammad A Y.</a>
+    <img src="https://raw.githubusercontent.com/masnurrm/masnurrm/master/wave.gif" width="30px"> Hi, I'm <a href="https://masnurrm.dev">Nur Muhammad A Y.</a>
 </h1>
 
 <p>I'm currently serving as Cloud and DevSecOps Engineer @ PT Astra Graphia Information Technology | Bachelor of Informatics @ Institut Teknologi Sepuluh Nopember (ITS).</p>
